@@ -1,0 +1,822 @@
+body {
+    font-family: 'Ubuntu', sana-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+footer {
+   overflow: hidden
+}
+
+ul {
+    list-style-type: none;
+}
+
+.nav {
+    width: 100%;
+}
+
+.ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 64px;
+    margin-bottom: 103px;
+}
+
+.header_info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p {
+    font-size: 20px;
+    color: #C4C4C4;
+    margin-left: 40px;
+    width: 400px;
+}
+
+h1 {
+    font-size: 39px;
+    color: #25DC58;
+    width: 500px;
+    margin-left: 40px;
+}
+
+#pohuy{
+    color: #F849DC;
+    font-family: Unlock;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btn {
+   font-size: 25px;
+   width: 170px;
+   height: 50px;
+   margin-left: 40px;
+   background-color: blue;
+   color: white;
+   margin-top: 30px;
+
+}
+
+.h {
+    font-size: 29px;
+    padding-bottom: 300px;
+}
+
+.pp {
+    max-width: 450px;
+    min-width: 450px;
+    margin-left: -100px;
+    display: block;
+    word-wrap: break-word;
+}
+
+.header_info-img {
+    padding-bottom: 50px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 400px;
+}
+
+.flex {
+    display: flex;
+}
+
+.rt {
+    margin-left: -100px;
+    width: 400px;
+}
+
+.header_info-discTwo img {
+    margin-top: -120px;
+}
+
+.ss {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.flex2 {
+   margin-left: 450px;
+   margin-top: -200px;
+}
+
+.ert {
+    max-width: 300px;
+    min-width: 300px;
+}
+
+.op {
+    max-width: 450px;
+    min-width: 450px;
+}
+
+.container2 {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.tyu {
+    margin-left: 300px;
+}
+
+.cvb {
+    margin-left: 200px;
+    padding-top: 30px;
+}
+
+.iop {
+    margin-top: 50px;
+    max-width: 300px;
+    min-width: 300px;
+}
+
+.bn {
+    max-width: 400px;
+    min-width: 400px;
+}
+
+.thg img{
+    margin-left: 500px;
+    margin-top: -200px;
+    width: 200px;
+}
+
+.gred {
+    margin-left: 200px;
+}
+
+.Safron {
+    margin-left: 800px;
+    max-width: 300px;
+    min-width: 300px;
+    margin-top: -270px;
+}
+
+.nigger {
+    max-width: 400px;
+    min-width: 400px;
+    margin-left: 800px;
+    margin-top: 5px;
+}
+
+.frs {
+    font-size: 50px;
+    margin-top: 300px;
+    margin-left: 550px;
+}
+
+.InakentiyIII {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.border1 {
+    margin-top: 100px;
+    margin-left: 200px;
+    min-width: 100%;
+    max-width: 100%;
+    border-bottom: 5px solid rgba(82, 0, 217, 1);
+}
+
+.border2 {
+    margin-top: 50px;
+    margin-left: 200px;
+    min-width: 100%;
+    max-width: 100%;
+    border-bottom: 5px solid rgba(82, 0, 217, 1);
+}
+
+.certy {
+    font-size: 70px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.border3 {
+    margin-top: 50px;
+    margin-left: 200px;
+    min-width: 100%;
+    max-width: 100%;
+    border-bottom: 5px solid rgba(82, 0, 217, 1);
+}
+
+
+.qerty {
+    font-size: 80px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.ljyhf {
+    font-size: 50px;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+
+.gyjfh {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);        
+    grid-gap: 10px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.tyundfb {
+    margin-left: 670px;
+    margin-top: 10px;
+}
+
+.footer {
+    display: flex;
+    max-width: 768px;
+    min-width: 768;
+}
+
+.border4 {
+    margin-top: 100px;
+    margin-left: 325px;
+    min-width: 1150px;
+    max-width: 1150px;
+    border-bottom: 1px solid rgba(82, 0, 217, 1);
+}
+
+.cvhdu {
+    margin-top: 20px;
+    max-width: 800px;
+    min-width: 800px;
+    margin-left: 335px;
+}
+
+.nncvk  ul{
+    margin-top: 10px;
+    line-height: 30px;
+    list-style-type: none;
+}
+
+.cvhvbvvdddu {
+    margin-left: 554px;
+    margin-top: -116px;
+}
+
+.hblkjddds ul {
+    margin-top: 10px;
+    line-height: 30px;
+    list-style-type: none;
+    max-width: 200px;
+    min-width: 200px;
+}
+
+.cddcfddu {
+    margin-left: 767px;
+    margin-top: -179px;
+}
+
+.xvvdfds ul{
+    margin-top: 10px;
+    line-height: 30px;
+    list-style-type: none;
+    max-width: 300px;
+    min-width: 300px;
+}
+
+.ddu {
+    margin-left: 1040px;
+    margin-top: -150px;
+    max-width: 300px;
+    min-width: 300px;
+}
+
+.retyuopp {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 1040px;
+    margin-top: 10px;
+    max-width: 170px;
+    min-width: 170px;
+    line-height: 40px;
+    letter-spacing: 40px;
+    grid-gap: 10px 10px;
+}
+
+@media screen and (max-width: 768px) {
+    #pohuy {
+        color: #b4cc2f;}
+    .container {
+        max-width: 768px;
+    }
+    .header_info-img img {
+        width: 275px;
+    }
+    .tyu {
+        margin-left: 110px;
+    }
+    h1 {
+        font-size: 32px;
+        color: #25DC58;
+        width: 500px;
+        margin-left: 40px;
+    }
+    .p {
+        font-size: 16px;
+        color: #C4C4C4;
+        margin-left: 40px;
+        width: 400px;
+    }
+    .btn {
+        font-size: 25px;
+        width: 170px;
+        height: 50px;
+        margin-left: 40px;
+        background-color: blue;
+        color: white;
+        margin-top: 18px;
+    }
+    .rt {
+        margin-left: -100px;
+        width: 400px;
+    }
+    .pp {
+        max-width: 450px;
+        min-width: 450px;
+        margin-left: -100px;
+        display: block;
+        word-wrap: break-word;
+    }
+    .header_info-discTwo img {
+        margin-top: -95px;
+        width: 250px;
+    }
+    .ss {
+        margin-top: -56px;
+        margin-left: -10px;
+    }
+    .flex2 {
+        margin-left: 299px;
+        margin-top: -200px;
+    }
+    .cvb {
+        margin-left: 27px;
+        padding-top: 1px;
+    }
+    .thg img {
+        margin-left: 400px;
+        margin-top: -200px;
+        width: 300px;
+    }
+    .gred {
+        margin-left: 0px;
+    }
+    .Safron {
+        margin-left: 342px;
+        max-width: 300px;
+        min-width: 300px;
+        margin-top: -270px;
+    }
+    .nigger {
+        max-width: 400px;
+        min-width: 400px;
+        margin-left: 342px;
+        margin-top: 5px;
+    }
+    .frs {
+        font-size: 50px;
+        margin-top: 183px;
+        margin-left: 240px;
+    }
+    .InakentiyIII {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: -22px;
+        margin-top: 20px;
+        width: 50px;
+    }
+    .InakentiyIII img {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: 31px;
+        margin-top: 20px;
+        width: 155px;
+    }
+    .border1 {
+        margin-top: 80px;
+        margin-left: -19px;
+        min-width: 800px;
+        max-width: 800px;
+        border-bottom: 5px solid rgba(82, 0, 217, 1);
+    }
+    .border2 {
+        margin-top: 15px;
+        margin-left: -2px;
+        min-width: 800px;
+        max-width: 800px;
+        border-bottom: 5px solid rgba(82, 0, 217, 1);
+    }
+    .certy {
+        font-size: 55px;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    .border3 {
+        margin-top: 3px;
+        margin-left: -3px;
+        min-width: 800px;
+        max-width: 800px;
+        border-bottom: 5px solid rgba(82, 0, 217, 1);
+    }
+    .qerty {
+        font-size: 64px;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    .ljyhf {
+        font-size: 43px;
+        margin-left: 300px;
+        margin-top: 25px;
+    }
+    .gyjfh {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: 70px;
+        margin-top: 20px;
+        width: 185px;
+    }
+    .gyjfh img {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: -7px;
+        margin-top: 20px;
+        width: 219px;
+    }
+    .tyundfb {
+        margin-left: 366px;
+        margin-top: 10px;
+    }
+    .border4 {
+        margin-top: 40px;
+        margin-left: -22px;
+        min-width: 768px;
+        max-width: 800px;
+        border-bottom: 1px solid rgba(82, 0, 217, 1);
+    }
+    .cvhdu {
+        margin-top: 20px;
+        max-width: 800px;
+        min-width: 800px;
+        margin-left: 0px;
+        font-size: 10px;
+    }
+    .cvhvbvvdddu {
+        margin-left: 140px;
+        margin-top: -111px;
+        font-size: 10px;
+    }
+    .cddcfddu {
+        margin-left: 290px;
+        margin-top: -172px;
+        font-size: 10px;
+    }
+    .hblkjddds ul {
+        margin-top: 10px;
+        line-height: 30px;
+        list-style-type: none;
+        max-width: 200px;
+        min-width: 200px;
+        font-size: 10px;
+    }
+    .xvvdfds ul {
+        margin-top: 10px;
+        line-height: 30px;
+        list-style-type: none;
+        max-width: 300px;
+        min-width: 300px;
+        font-size: 10px;
+    }
+    .ddu {
+        margin-left: 470px;
+        margin-top: -112px;
+        max-width: 300px;
+        min-width: 300px;
+        font-size: 10px;
+    }
+    .retyuopp {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 470px;
+        margin-top: 10px;
+        max-width: 170px;
+        min-width: 170px;
+        line-height: 40px;
+        letter-spacing: 40px;
+        grid-gap: 10px 10px;
+        width: 10px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .ul {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 9px;
+        margin-bottom: 40px;
+    }
+    .ul img {
+        display: flex;
+        justify-content: space-between;
+        width: 90px;
+    }
+    #pohuy {
+        color: #F849DC;
+        font-family: Unlock;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 1px;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    .header_info img {
+        padding-bottom: 50px;
+        width: 80px;
+    }
+
+    h1 {
+        font-size: 16px;
+        color: #25DC58;
+        width: 500px;
+        margin-left: 40px;
+    }
+    .p {
+        font-size: 10px;
+        color: #C4C4C4;
+        margin-left: 40px;
+        width: 230px;
+    }
+    .btn {
+        font-size: 25px;
+        width: 100px;
+        height: 35px;
+        margin-left: 40px;
+        background-color: blue;
+        color: white;
+        margin-top: 18px;
+    }
+    .rt {
+        margin-left: -100px;
+        width: 400px;
+        font-size: 15px;
+    }
+    .pp {
+        max-width: 150px;
+        min-width: 150px;
+        margin-left: -100px;
+        display: block;
+        word-wrap: break-word;
+        font-size: 10px;
+    }
+    .header_info-discTwo img {
+        margin-top: -11px;
+        width: 170px;
+    }
+    .ss {
+        margin-top: 30px;
+        margin-left: -10px;
+    }
+    .ss img {
+        margin-top: -37px;
+        margin-left: 15px;
+        width: 169px;
+    }
+    .ert {
+        max-width: 185px;
+        min-width: 175px;
+        font-size: 10px;
+        margin-top: 45px;
+        margin-left: -113px;
+    }
+    .op {
+        max-width: 126px;
+        min-width: 80px;
+        font-size: 8px;
+        margin-left: -112px;
+    }
+    .iop {
+        margin-top: 25px;
+        max-width: 300px;
+        min-width: 300px;
+        font-size: 10px;
+        margin-left: -15px;
+    }
+    .bn {
+        max-width: 137px;
+        min-width: 100px;
+        font-size: 8px;
+        margin-left: -15px;
+    }
+    .thg img {
+        margin-left: 113px;
+        margin-top: -150px;
+        width: 170px;
+    }
+    .gred img {
+        margin-left: 0px;
+        width: 120px;
+        margin-top: 10px;
+    }
+    .Safron {
+        margin-left: 140px;
+        max-width: 300px;
+        min-width: 300px;
+        margin-top: -115px;
+        font-size: 10px;
+    }
+    .nigger {
+        max-width: 150px;
+        min-width: 120px;
+        margin-left: 140px;
+        margin-top: 3px;
+        font-size: 8px;
+    }
+    .frs {
+        font-size: 20px;
+        margin-top: 35px;
+        margin-left: 95px;
+    }
+    .InakentiyIII {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 0px;
+        margin-left: -13px;
+        margin-top: 20px;
+        width: 20px;
+    }
+    .InakentiyIII img {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: 10px;
+        margin-top: 20px;
+        width: 70px;
+    }
+    .border1 {
+        margin-top: 30px;
+        margin-left: -19px;
+        min-width: 300px;
+        max-width: 340px;
+        border-bottom: 5px solid rgba(82, 0, 217, 1);
+    }
+    .certy {
+        font-size: 22px;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    .border2 {
+        margin-top: 2px;
+        margin-left: -2px;
+        min-width: 300px;
+        max-width: 323px;
+        border-bottom: 5px solid rgba(82, 0, 217, 1);
+    }
+    .qerty {
+        font-size: 26px;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    .border3 {
+        margin-top: 3px;
+        margin-left: -3px;
+        min-width: 300px;
+        max-width: 324px;
+        border-bottom: 5px solid rgba(82, 0, 217, 1);
+    }
+    .ljyhf {
+        font-size: 25px;
+        margin-left: 110px;
+        margin-top: 15px;
+    }
+    .gyjfh {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: 2px;
+        margin-top: 20px;
+        width: 185px;
+    }
+    .gyjfh img {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 10px;
+        margin-left: -7px;
+        margin-top: -5px;
+        width: 103px;
+    }
+    .tyundfb {
+        margin-left: 140px;
+        margin-top: 10px;
+    }
+    .border4 {
+        margin-top: 20px;
+        margin-left: -22px;
+        min-width: 300px;
+        max-width: 340px;
+        border-bottom: 1px solid rgba(82, 0, 217, 1);
+    }
+    .hblkjddds ul {
+        margin-top: 7px;
+        line-height: 18px;
+        list-style-type: none;
+        max-width: 70px;
+        min-width: 60px;
+        font-size: 8px;
+    }
+    .cvhdu {
+        margin-top: 15px;
+        max-width: 340px;
+        min-width: 300px;
+        margin-left: 0px;
+        font-size: 5px;
+    }
+    .nncvk ul {
+        margin-top: 10px;
+        line-height: 20px;
+        list-style-type: none;
+    }
+    .cvhvbvvdddu {
+        margin-left: 80px;
+        margin-top: -75px;
+        font-size: 5px;
+    }
+    .cddcfddu {
+        margin-left: 150px;
+        margin-top: -196px;
+        font-size: 8px;
+    }
+    .xvvdfds ul {
+        margin-top: 10px;
+        line-height: 14px;
+        list-style-type: none;
+        max-width: 100px;
+        min-width: 80px;
+        font-size: 8px;
+    }
+    .ddu {
+        margin-left: 237px;
+        margin-top: -117px;
+        max-width: 300px;
+        min-width: 300px;
+        font-size: 8px;
+    }
+    .retyuopp {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 240px;
+        margin-top: 10px;
+        max-width: 80px;
+        min-width: 75px;
+        line-height: 40px;
+        letter-spacing: 40px;
+        grid-gap: 10px 10px;
+        width: 10px;
+    }
+}
